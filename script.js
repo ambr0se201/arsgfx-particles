@@ -35,7 +35,7 @@ const ParticleImageDisplayer = function(tag_id, canvas_el, params) {
     },
     image: {
       src: {
-        path: "https://images.squarespace-cdn.com/content/5e4325bd3e0ad321128bbe01/212abd7c-6969-4bf8-866c-df2f39e73fdb/CLEANSTRAIGHTARSGFX.png?content-type=image%2Fpng",
+        path: "https://images.squarespace-cdn.com/content/5e4325bd3e0ad321128bbe01/7bff5508-faa9-48d0-b941-784e39ed069a/ARSGFX-noodles.jpg?content-type=image%2Fjpeg",
         is_external: true
       },
       size: {
