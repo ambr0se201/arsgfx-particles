@@ -35,7 +35,7 @@ const ParticleImageDisplayer = function(tag_id, canvas_el, params) {
     },
     image: {
       src: {
-        path: "https://images.squarespace-cdn.com/content/5e4325bd3e0ad321128bbe01/2d2fd6e3-3365-43ca-a3ac-3ed98d819007/arsGFXstacked.png?content-type=image%2Fpng",
+        path: "https://images.squarespace-cdn.com/content/5e4325bd3e0ad321128bbe01/60a56be3-e52e-416f-a717-c331a9e03939/triple-stack.png?content-type=image%2Fpng",
         is_external: true
       },
       size: {
