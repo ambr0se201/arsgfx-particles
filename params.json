@@ -3,7 +3,7 @@
        "density": 480,
       "color": '#01a2e6',
     "size": {
-      "value": 1,
+      "value": .2,
       "random": false
     },
     "movement": {
