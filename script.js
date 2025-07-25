@@ -10,7 +10,7 @@ const ParticleImageDisplayer = function(tag_id, canvas_el, params) {
         random: false,
       },
       movement: {
-        speed: 460,
+        speed: 1,
         restless: {
           enabled: false,
           value: 10,
