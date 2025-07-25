@@ -3,7 +3,7 @@ const ParticleImageDisplayer = function(tag_id, canvas_el, params) {
   this.pImageConfig = {
     particles: {
       array: [],
-      density: 40,
+      density: 130,
       color: '#01a2e6',
       size: {
         value: 1,
