@@ -1,7 +1,7 @@
 #particle-image {
   z-index:999;
   position: absolute;
-  background-image: linear-gradient(to bottom right, #00a7ed, yellow);
+  background: linear-gradient(to bottom right, #00a7ed, yellow);
   top: -45px;
   bottom: 0px;
   left: 0px;
