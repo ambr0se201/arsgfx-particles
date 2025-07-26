@@ -1,9 +1,9 @@
 #particle-image {
   z-index:999;
   position: absolute;
-  top: -45px;
   bottom: 0px;
   left: 0px;
+background-color:grey;
   right: 0px;
   height: 100%;
   width: 100%;
